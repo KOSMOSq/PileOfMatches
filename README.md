@@ -1,3 +1,11 @@
+The pile of matches!
+
+Main menu screen:
+![image](https://github.com/user-attachments/assets/0a7a3121-f812-4a04-9e9d-6a80dbd76032)
+
+Game screen
+![image](https://github.com/user-attachments/assets/67b3f2f8-b3ce-4497-ae7e-5e771fbad042)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
